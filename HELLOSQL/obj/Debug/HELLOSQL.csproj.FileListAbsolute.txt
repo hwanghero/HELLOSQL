@@ -1,0 +1,12 @@
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\bin\Debug\HELLOSQL.exe.config
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\bin\Debug\HELLOSQL.exe
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\bin\Debug\HELLOSQL.pdb
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.csprojAssemblyReference.cache
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.Form1.resources
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.Properties.Resources.resources
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.csproj.GenerateResource.cache
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.csproj.CopyComplete
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.exe
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.pdb
+C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Debug\HELLOSQL.Settings.resources
