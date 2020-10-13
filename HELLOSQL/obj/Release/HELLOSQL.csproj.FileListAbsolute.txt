@@ -10,3 +10,15 @@ C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.csproj.Generat
 C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.csproj.CopyComplete
 C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.exe
 C:\Users\Hero\source\repos\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.pdb
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\bin\Release\HELLOSQL.exe.config
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\bin\Release\HELLOSQL.exe
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\bin\Release\HELLOSQL.pdb
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.csprojAssemblyReference.cache
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.Form1.resources
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.Properties.Resources.resources
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.Settings.resources
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.csproj.GenerateResource.cache
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.csproj.CopyComplete
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.exe
+C:\Users\Hero\Desktop\github\HELLOSQL\HELLOSQL\obj\Release\HELLOSQL.pdb

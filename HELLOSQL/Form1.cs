@@ -89,7 +89,7 @@ namespace HELLOSQL
                 {
                     OracleCommand comm = new OracleCommand();
                     comm.Connection = SQLConnect.Connection;
-                    comm.CommandText = @"SELECT COLUMN_NAME, DATA_TYPE FROM COLS WHERE TABLE_NAME = '" + selectedItem + "'";
+                    comm.CommandText = @"SELECT COLUMN_NAME, DATA_TYPE FROM COLS WHERE TABLE_NAME = '" + selectedItem + "' order by COLUMN_ID";
                     OracleDataAdapter da = new OracleDataAdapter(comm);
                     DataSet ds = new DataSet();
                     da.Fill(ds, "TAB");
